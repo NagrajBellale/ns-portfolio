@@ -45,6 +45,7 @@ nav .navbar .logo a{
   font-size: 35px;
   color: #364646;
 }
+
 nav.sticky .navbar .logo a{
   color: #fff;
 }
@@ -64,7 +65,7 @@ nav .navbar .menu li{
   transition: all 0.4s ease;
 }
 .navbar .menu a:hover{
-  color: #bea90d;
+  color: #efeee9;
 }
 nav.sticky .menu a{
   color: #FFF;
